@@ -1,0 +1,86 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    box-sizing: border-box;
+    margin: 0 auto;
+    padding: 0;
+    background-color: aliceblue;
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+body .main-wrapper {
+    width: 1600px;
+    display: grid;
+    margin: 30px auto 0 auto;
+    justify-content: center;
+    grid-template-columns: 45% 55%;
+}
+
+.main-wrapper .left-wrapper {
+    display: flex;
+    background-color: rgb(118, 214, 185);
+    height: calc(2000px - 30px - 250px);
+    border-top-left-radius: 100px;
+    justify-content: center;
+}
+
+
+.left-wrapper .left-content {
+    display: grid;
+    grid-template-rows: repeat(5, max-content);
+}
+
+
+.main-wrapper .right-wrapper {
+    background-color: inherit;
+    height: calc(2000px - 30px - 250px);
+    display: grid;
+    grid-template-rows: repeat(2, max-content);
+}
+
+header nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul {
+    display: grid;
+    grid-template-columns: repeat(6, max-content);
+}
+
+.right-wrapper .right-content {
+    display: grid;
+    grid-template-rows: repeat(4, max-content);
+}
+
+footer {
+    height: 150px; /* set width in the end */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-content address {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr)
+}
+
+#my-photo {
+    display: block;
+    width: 100px;
+    height: 100px;
+}
