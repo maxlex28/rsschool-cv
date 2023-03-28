@@ -95,3 +95,23 @@ services.
 - rock music;
 - cinematograhy (from artistic and technical aspects);
 - ping-pong
+## **QUALIFICATIONS**
+
+### Languages
+
+- **English** (IELTS C1 level: advanced)
+- **Russian** and **Belarusian** (native speaker)
+- **Ukrainian** (basic knowledge - decent for reading and listening comprehension)
+- **Polish** (basic knowledge - decent for reading and listening comprehension)
+
+### Other skills and qualities:
+
+- **MS Office** (_advanced_)
+- **Python** (_beginner_) [example of code (raw draft) on GitHub](https://github.com/maxlex28/examplePyth)
+- **JavaScript** (_beginner_)
+- [**IFRS**](https://en.wikipedia.org/wiki/International_Financial_Reporting_Standards) (_basic_)
+- Communication, organisational and time management skills
+- Work in time pressure conditions
+- Courtesy and tolerance towards clients and the team
+
+---
