@@ -88,13 +88,7 @@ services.
 - tracking of feedback on customers' satisfaction with the bank and acquired products.
 
 ---
-## **INTERESTS**
 
-- strong interest in data analysis (theory and practice);
-- music theory;
-- rock music;
-- cinematograhy (from artistic and technical aspects);
-- ping-pong
 ## **QUALIFICATIONS**
 
 ### Languages
@@ -115,3 +109,12 @@ services.
 - Courtesy and tolerance towards clients and the team
 
 ---
+
+## **INTERESTS**
+
+- strong interest in data analysis (theory and practice);
+- music theory;
+- rock music;
+- cinematograhy (from artistic and technical aspects);
+- ping-pong
+
